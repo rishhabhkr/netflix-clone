@@ -1,0 +1,9 @@
+.Footer{
+    height: 100px;
+    background-color: rgb(48, 44, 44);
+    display: flex;
+}
+
+.Footer p{
+    color: white;
+}

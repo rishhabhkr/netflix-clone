@@ -1,0 +1,23 @@
+.Nav{
+    display: flex;
+    position: fixed;
+    top: 0;
+    padding: 20px;
+    background-color: #111;
+    justify-content: space-between;
+    z-index:1
+}
+
+.logo{
+    position: fixed;
+ width: 100px;
+ object-fit: contain;
+ left: 20px;
+}
+
+.avatar{
+    position: fixed;
+ right: 20px;
+ width: 40px;
+ object-fit: contain;
+}
